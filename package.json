@@ -1,0 +1,21 @@
+{
+  "name": "udemy-shared-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "openzeppelin-solidity": "^4.2.0",
+    "save": "^2.4.0",
+    "web3": "^1.4.0",
+    "web3.js-browser": "^0.2.0"
+  }
+}
